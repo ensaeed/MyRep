@@ -1,0 +1,16 @@
+com\selenium\webdriver\driverManager\PriceGridTest.class
+com\selenium\webdriver\driverManager\ListElements.class
+com\selenium\webdriver\driverManager\AllinclusiveTest.class
+com\selenium\webdriver\driverManager\CheckBoxTest.class
+com\selenium\webdriver\driverManager\CitiesTest.class
+com\selenium\webdriver\driverManager\DeleteClass.class
+com\selenium\webdriver\driverManager\SetUp.class
+com\selenium\webdriver\driverManager\LateDealsTest.class
+com\selenium\webdriver\driverManager\SuiteTest.class
+com\selenium\webdriver\driverManager\SigninTest.class
+com\selenium\webdriver\driverManager\FindaProperty.class
+com\selenium\webdriver\driverManager\HotelTest.class
+com\selenium\webdriver\driverManager\OverseasTest.class
+com\selenium\webdriver\HomePage.class
+com\selenium\webdriver\driverManager\AlertBox.class
+com\selenium\webdriver\driverManager\DriverManager.class
